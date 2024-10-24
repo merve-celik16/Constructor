@@ -6,6 +6,8 @@
         {
             // Parametresiz constructor ile nesne oluşturma
             Bebek bebek1 = new Bebek();
+            bebek1.Ad = "Melek";
+            bebek1.Soyadi = "Şahin";
 
             // Parametreli constructor ile nesne oluşturma
             Bebek bebek2 = new Bebek("Kerem", "ATAY");
